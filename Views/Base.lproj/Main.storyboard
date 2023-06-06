@@ -111,10 +111,10 @@
                     </tableView>
                     <toolbarItems/>
                     <navigationItem key="navigationItem" title="Todoey" id="qOl-uO-9kI">
-                        <barButtonItem key="rightBarButtonItem" systemItem="add" id="4on-6t-wfc">
+                        <barButtonItem key="rightBarButtonItem" systemItem="add" id="gAv-cs-6Bs">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
-                                <action selector="addButtonPressed:" destination="dQ9-cW-pZa" id="ZOp-sy-eR1"/>
+                                <action selector="addButtonPressed:" destination="dQ9-cW-pZa" id="1lh-Ff-J4c"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>

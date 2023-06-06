@@ -80,10 +80,9 @@
 				875ECEA829D1D86800FDFC68 /* Controllers */,
 				875ECEA929D1D87400FDFC68 /* Views */,
 				875ECE9A29CF74EF00FDFC68 /* Assets.xcassets */,
-				875ECE9C29CF74EF00FDFC68 /* LaunchScreen.storyboard */,
 				875ECE9F29CF74EF00FDFC68 /* Info.plist */,
 			);
-			path = Todoey;
+			name = Todoey;
 			sourceTree = "<group>";
 		};
 		875ECEA529D1D83100FDFC68 /* Model */ = {
@@ -109,6 +108,7 @@
 			isa = PBXGroup;
 			children = (
 				875ECE9729CF74EE00FDFC68 /* Main.storyboard */,
+				875ECE9C29CF74EF00FDFC68 /* LaunchScreen.storyboard */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -351,7 +351,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = FVUCM87L3U;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Todoey/Info.plist;
+				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -383,7 +383,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = FVUCM87L3U;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Todoey/Info.plist;
+				"INFOPLIST_FILE[sdk=*]" = Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
