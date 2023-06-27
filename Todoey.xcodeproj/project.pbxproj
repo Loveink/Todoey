@@ -32,7 +32,6 @@
 		875ECE9829CF74EE00FDFC68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		875ECE9A29CF74EF00FDFC68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		875ECE9D29CF74EF00FDFC68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		875ECE9F29CF74EF00FDFC68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		875ECED029D34BC300FDFC68 /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		875ECED929D4505300FDFC68 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		875ECEDB29D4506000FDFC68 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
@@ -80,9 +79,8 @@
 				875ECEA829D1D86800FDFC68 /* Controllers */,
 				875ECEA929D1D87400FDFC68 /* Views */,
 				875ECE9A29CF74EF00FDFC68 /* Assets.xcassets */,
-				875ECE9F29CF74EF00FDFC68 /* Info.plist */,
 			);
-			name = Todoey;
+			path = Todoey;
 			sourceTree = "<group>";
 		};
 		875ECEA529D1D83100FDFC68 /* Model */ = {
